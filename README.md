@@ -46,7 +46,7 @@ Objetivo: Avaliar o retorno de promoções e identificar a melhor estratégia de
 Para reproduzir as análises, siga as instruções abaixo:
 
 Baixe ou clone este repositório:  
-git clone [https://github.com/IvanGibson/seu-repositorio.git  ](https://github.com/IvanGibson/Portifolio_ChinaLink001)
+`git clone` [https://github.com/IvanGibson/Portifolio_ChinaLink001](https://github.com/IvanGibson/Portifolio_ChinaLink001)  
 Explore os arquivos dentro de cada diretório para acompanhar o processo de análise de dados.  
 Sinta-se à vontade para entrar em contato se tiver dúvidas ou sugestões!  
 
